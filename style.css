@@ -1,0 +1,14 @@
+.bg-color{
+    background-color: rgb(46,94,154);
+}
+.nav-link, .navbar-brand{
+    color: #fff !important;
+}
+
+.footer-main{
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    min-height: 100px;
+}
